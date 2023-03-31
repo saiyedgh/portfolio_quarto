@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "portfolio_quarto"
+  title: "Syed Hassan"
   navbar:
     left:
       - href: index.qmd
