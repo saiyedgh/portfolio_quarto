@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Resume.pdf
+        text: Resume
       - about.qmd
 
 format:
